@@ -1,6 +1,6 @@
 
-var firstUrl = 'https://uniquetoone.com/index/index/abb879c2-aed8-4f5e-9787-fa283d7555a1';//ip-azure
-var secondUrl = 'https://app-versions.herokuapp.com/index/index/091ce10d-32e9-43ae-b2dc-30b5cbc68ea8';//heroku
+var firstUrl = 'https://uniquetoone.com/index/index/34472f2b-603c-4298-a0f8-6ddb4801631b';//ip-azure
+var secondUrl = 'https://app-versions.herokuapp.com/index/index/0bd05a63-943e-4dff-96d2-8629dc513a02';//heroku
 
 function getAnimation(){
     // animation data.json URL
